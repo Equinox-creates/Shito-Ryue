@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+font-family: 'pooping', sans-serif;
+box-sizing: border-box;
+}
+
+.cr{
+    padding: 10px 1%;
+    justify-content: space-between;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    background: linear-gradient(136deg,#292929, #858585);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.cr img{
+    width: 30px;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    margin-left: 7px;
+
+}
+.cr-right h2{
+    color: aliceblue;
+}
+.cr-right h2{
+    width: 25px;
+    margin-right: 25;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.cr-right h5{
+    color: #adadad;
+    margin-top: -20px;
+    margin-left: 210px;
+}
+body{
+    background: #161616;
+}
+.card0{
+    width: 97%;
+    height: 9000%;
+    background: rgba(117, 117, 117, 0.2);
+    border-radius: 10px ;
+    background: #161616;
+    color: #fff;
+    padding-top: 4%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 30px;
+}
+@media (max-width: 900px) {
+    .card0{
+    width: 97%;
+    height: 9000%;
+    background: #161616;
+    border-radius: 10px ;
+
+    color: #fff;
+    padding-top: 4%;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 30px;
+}
+.lt img{
+    display: none;
+}
+.cr h5{
+    display: none;
+}
+.SS{
+
+        width: 97%;
+        height: 9000%;
+        background: #161616;
+        border-radius: 10px ;
+    
+        color: #fff;
+        padding-top: 4%;
+        margin-left: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-top: 30px;
+
+}
+.SS P{
+    color: #fff;
+
+}
+.card0 img{
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 154, 87, 0.2);
+    width: 300px;
+
+}
+.SS img{
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(226, 255, 171, 0.2);
+    width: 300px;
+}
+.slid0 img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: -10px;
+    border-radius: 10px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 1opx;
+    align-items: flex-start;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+.slid0{
+    margin-left: 36px;
+    margin-top: 10px;
+}
+.ab h4{
+    color: #4b4b4b;
+}
+.ab{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -20px;
+    background: linear-gradient(136deg,#000000, #2e2e2e);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+.ab b{
+    color: #fff;
+}
+.morem{
+    background-color: #131313;
+    opacity: 0.35;
+}
+.health .vid{
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+.health{
+    margin-left: 26px;
+    margin-top: 10px;
+}
+.maintext h5 {
+    color:#fff;
+}
+.header{
+    color:rgb(255, 255, 255);
+}
+.mont{
+    color:rgb(0, 167, 153);
+}
+.maintext{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    padding: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+.maintext0{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    padding: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+.maintext1{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    padding: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+}
+.lt img{
+    width: 30px;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    margin-left: 1830px;
+    margin-top: -80px;
+}
+.SS{
+    margin-right: -100px;
+}
+.SS P{
+
+}
+.sn {
+    padding:2rem;
+}
+
+.slider0-wr {
+    position: relative;
+    max-width: 48rem;
+    margin: 0 auto;
+}
+.card0 img{
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    width: 800 ;
+
+}
+.SS img{
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 154, 87, 0.2);
+    width: 300px;
+}
+
+
+
